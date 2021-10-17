@@ -1,37 +1,31 @@
-## Welcome to GitHub Pages
+## RFLEpicGamer
 
-You can use the [editor on GitHub](https://github.com/RFLEpicGamer/RFLEpicGamer/edit/main/docs/index.md) to maintain and preview the content for your website in Markdown files.
+### Sobre eu
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Oi! Sou RFLEpicGamer, sou gamer(óbvio), tenho 16 anos, meu pronome é ele/dele e idioma que eu sei falar é Português e Inglês Eu Dou Followback e sou legal
 
-### Markdown
+### Links
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+[Twitter](https://twitter.com/RFLEpicGamer)
+[YouTube](https://www.youtube.com/channel/UCz4KwpF2O0e1fdXfMk9zuTA)
+[Instagram](https://www.instagram.com/rflepicgamer/)
+[Tumblr](https://rflepicgamer.tumblr.com/)
+[RFLNeko](https://twitter.com/RFLNeko)
+[NewGrounds](https://rflepicgamer.newgrounds.com/)
+[Mastodon](https://mastodon.online/@RFLEpicGamer)
+[Reddit](https://reddit.com/u/loopgames001)
+[Telegram](https://t.me/rflepicgamer)
 
 ```markdown
-Syntax highlighted code block
+Consoles que eu tenho
 
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
+ PSOne
+ PS2
+ PS3
+ PS4 (PSN: RFLEpicGamer)
+ PSP
+ PSVita (PSN: RFLEpic)
+ Nintendo Switch (SW-7209-8358-7398)
+ Nintendo Wii
+ Nintendo 3DS (FC: 4571-4194-9578)
 ```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/RFLEpicGamer/RFLEpicGamer/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
