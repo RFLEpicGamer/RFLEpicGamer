@@ -32,4 +32,4 @@ Consoles que eu tenho
 
 ### Jogos jogados
 
-[Image](https://card.exophase.com/2/0/120742.png?1634947963)
+![Image](https://card.exophase.com/2/0/120742.png?1634947963)
