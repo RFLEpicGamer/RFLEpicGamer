@@ -29,3 +29,7 @@ Consoles que eu tenho
  Nintendo Wii
  Nintendo 3DS (FC: 4571-4194-9578)
 ```
+
+### Jogos jogados
+
+[Image](https://card.exophase.com/2/0/120742.png?1634947963)
