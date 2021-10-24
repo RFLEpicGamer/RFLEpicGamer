@@ -7,14 +7,24 @@ Oi! Sou RFLEpicGamer, sou gamer(óbvio), tenho 16 anos, meu pronome é ele/dele 
 ### Links
 
 [Twitter](https://twitter.com/RFLEpicGamer)
+
 [YouTube](https://www.youtube.com/channel/UCz4KwpF2O0e1fdXfMk9zuTA)
+
 [Instagram](https://www.instagram.com/rflepicgamer/)
+
 [Tumblr](https://rflepicgamer.tumblr.com/)
+
 [RFLNeko](https://twitter.com/RFLNeko)
+
 [NewGrounds](https://rflepicgamer.newgrounds.com/)
+
 [Mastodon](https://mastodon.online/@RFLEpicGamer)
+
 [Reddit](https://reddit.com/u/loopgames001)
+
 [Telegram](https://t.me/rflepicgamer)
+
+[GamerNetwork](https://gamernetwork.gg/profile/rflepic/)
 
 ```markdown
 Consoles que eu tenho
