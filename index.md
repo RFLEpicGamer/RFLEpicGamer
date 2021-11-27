@@ -8,7 +8,7 @@ Oi! Sou RFLEpicGamer, sou gamer(óbvio), tenho 16 anos, meu pronome é ele/dele 
 
 [Twitter](https://twitter.com/RFLEpicGamer)
 
-[YouTube](https://www.youtube.com/channel/UCz4KwpF2O0e1fdXfMk9zuTA)
+[YouTube 13+](https://www.youtube.com/channel/UCz4KwpF2O0e1fdXfMk9zuTA)
 
 [Instagram](https://www.instagram.com/rflepicgamer/)
 
@@ -26,19 +26,15 @@ Oi! Sou RFLEpicGamer, sou gamer(óbvio), tenho 16 anos, meu pronome é ele/dele 
 
 [GamerNetwork](https://gamernetwork.gg/profile/rflepic/)
 
-```markdown
-Consoles que eu tenho
+[DeviantArt](https://www.deviantart.com/rflepic)
 
- PSOne
- PS2
- PS3
- PS4 (PSN: RFLEpicGamer)
- PSP
- PSVita (PSN: RFLEpic)
- Nintendo Switch (SW-7209-8358-7398)
- Nintendo Wii
- Nintendo 3DS (FC: 4571-4194-9578)
-```
+[Crabber](https://crabber.net/user/RFLEpicGamer)
+
+[GamerNetwork](https://gamernetwork.gg/profile/rflepic/)
+
+[Rec Room](https://rec.net/user/RFLEpicGamer)
+
+### [Consoles que eu tenho](https://docs.google.com/spreadsheets/d/1ecjzlcKEe9qbSV6CdHvOOKe-30y-NmUHWFBKiPIlB3U/edit?usp=sharing)
 
 ### Jogos jogados
 
