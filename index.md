@@ -30,8 +30,6 @@ Oi! Sou RFLEpicGamer, sou gamer(óbvio), tenho 16 anos, meu pronome é ele/dele 
 
 [Crabber](https://crabber.net/user/RFLEpicGamer)
 
-[GamerNetwork](https://gamernetwork.gg/profile/rflepic/)
-
 [Rec Room](https://rec.net/user/RFLEpicGamer)
 
 ### [Consoles que eu tenho](https://docs.google.com/spreadsheets/d/1ecjzlcKEe9qbSV6CdHvOOKe-30y-NmUHWFBKiPIlB3U/edit?usp=sharing)
